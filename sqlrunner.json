@@ -1,0 +1,3 @@
+{
+	"postgres_connection": "user=postgres password=postgres host=Protonstar.local dbname=data_source"
+}
